@@ -35,7 +35,7 @@ This project is part of my **Data Science Internship** at **CodeAlpha**. The goa
 * **Confusion Matrix:** Perfectly classified all test samples.
 
 ## 📷 Output
-*(You can upload the screenshot of your Confusion Matrix here)*
+*(![Confusion Matrix](confusion_matrix.png))*
 
 ## 🤝 Acknowledgement
 [cite_start]Thanks to **@CodeAlpha** for providing this opportunity to learn and apply Data Science concepts[cite: 71].
