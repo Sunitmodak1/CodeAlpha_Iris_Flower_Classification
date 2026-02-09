@@ -43,4 +43,4 @@ This project is part of my **Data Science Internship** at **CodeAlpha**. The goa
 
 ---
 **Author:** Sunit Modak
-**LinkedIn:** [https://www.linkedin.com/in/sunit-modak-6064403a5/](https://www.linkedin.com/in/sunit-modak-6064403a5/)
+**LinkedIn:** [https://www.linkedin.com/in/sunit-modak-6064403a5/](https://www.linkedin.com/in/sunitmodak/)
