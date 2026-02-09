@@ -14,7 +14,7 @@ This project is part of my **Data Science Internship** at **CodeAlpha**. The goa
 * Sepal Width
 * Petal Length
 * Petal Width
-* Target Class: Species (Iris-setosa, Iris-versicolor, Iris-virginica)
+* **Target Class:** Species (Iris-setosa, Iris-versicolor, Iris-virginica)
 
 ## 🛠️ Technologies Used
 * [cite_start]**Python** (Programming Language) [cite: 61]
@@ -29,17 +29,18 @@ This project is part of my **Data Science Internship** at **CodeAlpha**. The goa
 3.  [cite_start]**Model Training:** Trained a **K-Nearest Neighbors (KNN)** classifier to predict species[cite: 82].
 4.  [cite_start]**Model Evaluation:** Achieved **100% Accuracy** on the test set[cite: 84].
 5.  **Visualization:** Plotted a Confusion Matrix to visualize true vs. predicted labels.
+6.  **Interactive Prediction:** Implemented a real-time user input system where users can enter measurements to get instant flower predictions.
 
 ## 📊 Results
 * **Accuracy:** 1.0 (100%)
 * **Confusion Matrix:** Perfectly classified all test samples.
 
 ## 📷 Output
-*(![Confusion Matrix](confusion_matrix.png))*
+![Confusion Matrix](confusion_matrix.png)
 
 ## 🤝 Acknowledgement
 [cite_start]Thanks to **@CodeAlpha** for providing this opportunity to learn and apply Data Science concepts[cite: 71].
 
 ---
 **Author:** Sunit Modak
-**LinkedIn:** [https://www.linkedin.com/in/sunit-modak-6064403a5/]
+**LinkedIn:** [https://www.linkedin.com/in/sunit-modak-6064403a5/](https://www.linkedin.com/in/sunit-modak-6064403a5/)
